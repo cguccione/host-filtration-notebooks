@@ -1,6 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
+### Patient Info -- not public for Github ###
+figures/ad_sample_info.tsv
+figures/AD.tsv
+figures/PS_sample_info.tsv
+
+### Old things that don't need to go on github ###
+figures/archive/*
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
