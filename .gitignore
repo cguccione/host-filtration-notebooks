@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
+#Actual Figures
+figures/Feb22/*
+figures/Figures_Feb23-IS/*
+figures/old_figs/*
+
 ### Patient Info -- not public for Github ###
 figures/ad_sample_info.tsv
 figures/AD.tsv
