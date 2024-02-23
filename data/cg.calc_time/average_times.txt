@@ -1,0 +1,10 @@
+file_size	Method	run_time
+100,000	Method 1	779
+100,000	Method 2	6048
+100,000	Method 3	1017
+1,000,000	Method 1	1159
+1,000,000	Method 2	11951
+1,000,000	Method 3	1717
+10,000,000	Method 1	4624
+10,000,000	Method 2	21854
+10,000,000	Method 3	5438
